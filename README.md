@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhpra
-- 👀 I’m interested in Web development & DevOps Engineering
-- 🌱 I’m currently learning Full stack development and C
+- 👀 I’m interested in android development & DevOps Engineering
+- 🌱 I’m currently learning android development with kotlin and Java
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
